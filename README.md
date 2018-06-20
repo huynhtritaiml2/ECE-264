@@ -1,4 +1,4 @@
-# 2017-ece264
+# ECE 264: Advanced C Programming
 This repository is a running compliation of all programming assignments (PA) based on theory learned in <b>ECE 264 - Advanced C Programming</b> taught by Dr. Yung-Hsiang Lu and Dr. Milind Kulkarni during the Spring 2017 semester.
 
 ### List of PA Assignments
